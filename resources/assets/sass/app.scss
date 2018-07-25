@@ -1,0 +1,42 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Settings
+@import "settings";
+
+// Foundation
+@import "node_modules/foundation-sites/scss/foundation";
+
+// Include Everything (True) for the Flex Grid :);
+@include foundation-everything(true);
+@import "components/typography";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+header{
+  border-bottom:1px solid #ddd;
+}
+
+ion-icon{
+  vertical-align: bottom;
+}
+
+form.login{
+  padding:50px 35% 0 35%;
+  .grid-container{
+    padding:5%;
+    background:white;
+    opacity:0.9;
+   
+  }
+}
+
+.login-container{
+  background-image: url('../images/common/bg.jpg');
+  background-size: cover;
+  height:96%;
+}

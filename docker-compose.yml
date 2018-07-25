@@ -1,0 +1,9 @@
+laravel:
+  image: mtmacdonald/docker-laravel:1.4.0
+  container_name: laravel_app
+  ports:
+   - 1080:80
+  volumes:
+   - /private/var/www/php-frameworks/laravel:/share
+  external_links:
+   - mysql:mysql
