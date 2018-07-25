@@ -1,5 +1,7 @@
 # Laravel Primer
 
+[![Build Status](https://travis-ci.org/RufusMbugua/laravel-primer.svg?branch=master)](https://travis-ci.org/RufusMbugua/laravel-primer)
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
