@@ -3,7 +3,8 @@
 [![Build Status](https://travis-ci.org/RufusMbugua/laravel-primer.svg?branch=master)](https://travis-ci.org/RufusMbugua/laravel-primer)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
-
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/rufusmbugua/laravel-primer.svg)](http://isitmaintained.com/project/rufusmbugua/laravel-primer "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/rufusmbugua/laravel-primer.svg)](http://isitmaintained.com/project/rufusmbugua/laravel-primer "Percentage of issues still open")
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
@@ -15,7 +16,8 @@ A not-so-barebones implementation of Laravel 5.x with my go-to packages.
 Checkout the [Laravel Read Me](README_Laravel.md) for more on Laravel.
 
 ## Components
-
++ RESTful API - Coming Soon
++ Blade Front-e
 
 ## Packages Included
 
