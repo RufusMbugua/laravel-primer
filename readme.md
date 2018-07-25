@@ -17,7 +17,7 @@ Checkout the [Laravel Read Me](README_Laravel.md) for more on Laravel.
 
 ## Components
 + RESTful API - Coming Soon
-+ Blade Front-e
++ Blade Front-end
 
 ## Packages Included
 
