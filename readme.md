@@ -13,7 +13,7 @@
 
 A not-so-barebones implementation of Laravel 5.x with my go-to packages. 
 
-Checkout the [Laravel Read Me](README_Laravel.md) for more on Laravel.
+See the underlying sauce [here](README_Laravel.md).
 
 ## Components
 + RESTful API - Coming Soon
