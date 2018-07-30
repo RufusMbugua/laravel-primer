@@ -5,6 +5,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/codeclimate/codeclimate/test_coverage)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/rufusmbugua/laravel-primer.svg)](http://isitmaintained.com/project/rufusmbugua/laravel-primer "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/rufusmbugua/laravel-primer.svg)](http://isitmaintained.com/project/rufusmbugua/laravel-primer "Percentage of issues still open")
+[![StyleCI](https://github.styleci.io/repos/142281714/shield?branch=master)](https://github.styleci.io/repos/142281714)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
