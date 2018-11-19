@@ -3118,16 +3118,16 @@
         },
         {
             "name": "zurb/foundation",
-            "version": "v6.4.3",
+            "version": "v6.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zurb/foundation-sites.git",
-                "reference": "4e21634356da296edd2f1c3e65d91140f991008b"
+                "reference": "c712acfbb24778303978a318a820ee5d05afbd89"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zurb/foundation-sites/zipball/4e21634356da296edd2f1c3e65d91140f991008b",
-                "reference": "4e21634356da296edd2f1c3e65d91140f991008b",
+                "url": "https://api.github.com/repos/zurb/foundation-sites/zipball/c712acfbb24778303978a318a820ee5d05afbd89",
+                "reference": "c712acfbb24778303978a318a820ee5d05afbd89",
                 "shasum": ""
             },
             "type": "library",
@@ -3153,7 +3153,7 @@
                 "sass",
                 "scss"
             ],
-            "time": "2017-08-18T15:32:36+00:00"
+            "time": "2018-11-15T22:15:49+00:00"
         }
     ],
     "packages-dev": [
